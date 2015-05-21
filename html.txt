@@ -1,0 +1,14 @@
+<div class="author">
+			<div class="author_photo">
+					<img src="./images/face.jpg" alt="王锋">
+			</div>
+			<div class="author_info">
+				<div class="name">
+					慕葵<span>微信：mukui</span>
+				</div>
+				<div class="desc">
+					简介：1990年3月12日生于安徽芜湖，中国大陆影视女演员、歌手、导演，在影、视、歌、导四栖领域都有成就
+				</div>	
+			</div>
+		</div>
+
